@@ -1,0 +1,40 @@
+﻿# Dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+**/dist-ssr/
+
+# Environment variables and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local files
+**/*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Uploaded files and student documents
+uploads/
+**/uploads/
+
+# Test and coverage output
+coverage/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary local debugging and database test scripts
+/server/b14-*.js
+/server/b15-*.js
+/server/check-*.js
+/server/inspect-*.js
+/server/reset-*.js
+/server/test-*.js
+/server/verify-*.js
