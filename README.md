@@ -270,16 +270,18 @@ The live application URL will be added after successful deployment.
 
 ## 👥 Contributors
 
-This project is developed as a collaborative B.Tech Computer Science and Engineering semester mini project.
+This project is developed collaboratively by the following team members:
 
-| Member | Role |
-|---|---|
-| Project Lead | Development and Integration |
-| Contributor 2 | To be added |
-| Contributor 3 | To be added |
-| Contributor 4 | To be added |
+| Name | GitHub Profile | Role |
+|---|---|---|
+| Priyanshu Gautam | [@priyanshu-gautam11](https://github.com/priyanshu-gautam11) | Project Lead |
+| Deepanshu | [@lambadeepanshu36-hub](https://github.com/lambadeepanshu36-hub) | Contributor |
+| Ayush | [@rastogiayush9839-art](https://github.com/rastogiayush9839-art) | Contributor |
+| Vansh | [@vansh210106](https://github.com/vansh210106) | Contributor |
 
-Contributor GitHub profiles will be added after repository collaboration is configured.
+**Project:** Hostel Allotment & Management System  
+**Technology Stack:** MongoDB, Express.js, React.js, Node.js
+
 
 ## 🎯 Project Objective
 
